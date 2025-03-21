@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ertanoz-dev
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 📫 How to reach me ertanozdev@gmail.com
 
 # 💻 Tech Stack:
